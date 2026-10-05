@@ -37,6 +37,6 @@ Tools: Python (pandas, scikit-learn, matplotlib), Power BI
 ## Dashboard Preview
 
 ![UAE Inflation Dashboard Page 1](dashboard_1.png)
-![UAE Inflation Dashboard Page 2](dashboard_page2.png)
+![UAE Inflation Dashboard Page 2](dashboard_page_2.png)
 
 
