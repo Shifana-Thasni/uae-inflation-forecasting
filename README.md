@@ -36,6 +36,7 @@ Tools: Python (pandas, scikit-learn, matplotlib), Power BI
 
 ## Dashboard Preview
 Screenshot 2026-10-05 143244.png
+Screenshot 2026-10-05 143419.png
 
 
 
