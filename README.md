@@ -36,10 +36,7 @@ Tools: Python (pandas, scikit-learn, matplotlib), Power BI
 
 ## Dashboard Preview
 
-
-![Page 1 - Single Variable Model](dashboard_screenshots/page1.png)
-
-
+"C:\Users\Shahe\OneDrive\Pictures\Screenshots\Screenshot 2026-10-05 143244.png"
+"C:\Users\Shahe\OneDrive\Pictures\Screenshots\Screenshot 2026-10-05 143419.png"
 
 
-![Page 2 - Two Variable Model](dashboard_screenshots/page2.png)
