@@ -35,8 +35,8 @@ Tools: Python (pandas, scikit-learn, matplotlib), Power BI
 - `dashboard_screenshots/` - Preview images of both dashboard pages
 
 ## Dashboard Preview
-Screenshot 2026-10-05 143244.png
-Screenshot 2026-10-05 143419.png
 
+![UAE Inflation Dashboard Page 1](dashboard_1.png)
+![UAE Inflation Dashboard Page 2](dashboard_page2.png)
 
 
