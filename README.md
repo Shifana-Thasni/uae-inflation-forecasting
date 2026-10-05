@@ -35,8 +35,7 @@ Tools: Python (pandas, scikit-learn, matplotlib), Power BI
 - `dashboard_screenshots/` - Preview images of both dashboard pages
 
 ## Dashboard Preview
+Screenshot 2026-10-05 143244.png
 
-"C:\Users\Shahe\OneDrive\Pictures\Screenshots\Screenshot 2026-10-05 143244.png"
-"C:\Users\Shahe\OneDrive\Pictures\Screenshots\Screenshot 2026-10-05 143419.png"
 
 
